@@ -1,0 +1,23 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "<img src=\"assets/logo.png\" />",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmedm2002/docker_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmedm2002/docker_practice/issues"
+  },
+  "homepage": "https://github.com/Ahmedm2002/docker_practice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
