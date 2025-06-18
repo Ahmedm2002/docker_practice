@@ -1,0 +1,7 @@
+services:
+  nodejs:
+    image: node
+    ports:
+      - "3000:4000"
+    environment:
+      - PORT=4000
